@@ -1,0 +1,22 @@
+# Python-with-Data-Analysis
+##### 本课程介绍Python以及相关的用于数据分析的库
+##### 第一部分：Python基础知识
+1. Python初识和数据类型
+2. 元组和控制流语句
+3. 字典和集合
+4. 函数、类和文件读取
+5. 模块和异常
+##### 第二部分：Python与数据分析
+1. NumPy创建
+2. NumPy运算和索引
+3. Ufunc函数
+4. 绘图
+5. 用机器学习进行数据分析
+6. 用Python实现朴素贝叶斯
+7. Scikit-learn
+
+#### 相关资料
+1. [Python基础知识](http://www.runoob.com/python/python-tutorial.html)
+2. [NumPy](http://old.sebug.net/paper/books/scipydoc/numpy_intro.html)
+3. [Matplotlib](http://old.sebug.net/paper/books/scipydoc/matplotlib_intro.html)
+4. [Scikit-learn](http://scikit-learn.org/stable/modules/classes.html)
